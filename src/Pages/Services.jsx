@@ -40,7 +40,7 @@ const Services = () => {
             <h3 className="text-2xl font-semibold mb-3">{service.title}</h3>
             <p className="text-sm">{service.description}</p>
             <a
-              href="https://wa.me/27844976772?text=Hi%20Sibu!%20I'm%20interested%20in%20your%20makeup%20services"
+              href="https://wa.me/27606332948?text=Hi%20Booby%20Snaps!%20I'm%20interested%20in%20your%20photography%20services"
                target="_blank"
                rel="noopener noreferrer"
 >
@@ -56,5 +56,6 @@ const Services = () => {
     </>
   );
 };
+
 
 export default Services;
