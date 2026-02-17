@@ -3,33 +3,49 @@ import { Link } from "react-router-dom";
 import { Navbar } from "../Components/Navbar";
 
 // Images
-import img1 from "../assets/media/image1.jpg";
-import img2 from "../assets/media/image2.jpg";
-import img14 from "../assets/media/image14.jpg";
-import img5 from "../assets/media/image5.jpg";
-import img6 from "../assets/media/image6.jpg";
-import img7 from "../assets/media/image7.jpg";
-import img8 from "../assets/media/image8.jpg";
+
 import img9 from "../assets/media/image12.jpg";
-import img10 from "../assets/media/image10.jpg";
+
+import wed1 from "../assets/media/wed1.jpg";
+import photo2 from "../assets/media/photo2.jpg";
+import img9 from "../assets/media/img9.jpg";
+import met1 from "../assets/media/met1.jpg";
+import matric3 from "../assets/media/matric3.jpg";
+import grad2 from "../assets/media/grad2.jpg"
 
 const albums = [
   {
     id: "weddings",
     title: "Weddings",
-    images: [img1, img7, img14],
+    images: [wed1],
   },
   {
     id: "photoshoots",
     title: "Photoshoots",
-    images: [img5, img6, img8],
+    images: [photo2],
   },
   {
-    id: "clients",
-    title: "Clients",
-    images: [img9, img2, img10],
+    id: "live performances",
+    title: "Live Performances",
+    images: [img9],
+  },
+  {
+    id: "maternity",
+    title: "Maternity",
+    images: [met1],
+  },
+  {
+    id: "graduations",
+    title: "Graduations",
+    images: [grad2],
+  },
+  {
+    id: "matric dance",
+    title: "Matric Dance",
+    images: [matric3],
   },
 ];
+
 
 const Gallery = () => {
   return (
