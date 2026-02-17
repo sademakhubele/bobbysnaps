@@ -1,14 +1,17 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import React from "react";
 
 import logoImg from "../assets/media/logo.jpg";
 
-export const Navbar = ({ menuOpen, setMenuOpen }) => {
+export const Navbar = () => {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   // Prevent scrolling when menu is open
   useEffect(() => {
     document.body.style.overflow = menuOpen ? "hidden" : "";
   }, [menuOpen]);
+
 
   return (
     <nav className="fixed top-0 w-full z-40 bg-[rgba(10,10,10,0.85)] backdrop-blur-lg border-b border-white/10 shadow-lg">
