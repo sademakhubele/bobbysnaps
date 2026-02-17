@@ -1,11 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import LoadingScreen from "./Components/LoadingScreen";
-import { useState } from "react";
 import Gallery from "./Pages/Gallery";
 import Services from "./Pages/Services";
+import Album from "./Pages/Album";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -20,6 +21,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/gallery/:albumId" element={<Album />} />
         <Route path="/services" element={<Services />} />
       </Routes>
     </Router>
