@@ -88,24 +88,21 @@ const albums = [
   },
   {
     id: "live-performances",
-    id: "live-performances",
     title: "Live Performances",
     images: [perf1, perf2, perf4, perf5, perf6, perf7, perf9, perf10],
   },
   {
-    id: "maternity",
+
     id: "maternity",
     title: "Maternity",
     images: [met2, met3, met4, met5, met6, met7, met8, met9],
   },
   {
     id: "graduations",
-    id: "graduations",
     title: "Graduations",
     images: [grad3, grad1, grad4, grad5, grad6, grad7, image5, image9],
   },
   {
-    id: "matric-dance",
     id: "matric-dance",
     title: "Matric Dance",
     images: [
