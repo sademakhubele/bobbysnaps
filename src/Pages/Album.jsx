@@ -17,7 +17,10 @@ import studio8 from "../assets/media/studio8.jpg";
 
 import wed2 from "../assets/media/wed2.jpg";
 import wed from "../assets/media/wed.jpg";
+import wed3 from "../assets/media/wed3.jpg";
 import wed4 from "../assets/media/wed4.jpg";
+import wed5 from "../assets/media/wed5.jpg";
+import wed6 from "../assets/media/wed6.jpg";
 import wed7 from "../assets/media/wed7.jpg";
 import wed8 from "../assets/media/wed8.jpg";
 
@@ -58,7 +61,7 @@ const albums = [
   {
     id: "weddings",
     title: "Weddings",
-    images: [wed2, wed, wed4, wed7, wed8],
+    images: [wed2, wed, wed3, wed4 ,wed5, wed6, wed7, wed8],
   },
   {
     id: "photoshoots",
@@ -76,7 +79,7 @@ const albums = [
     images: [met2, met3, met4, met5, met6, met7, met8],
   },
   {
-    id: "Graduations",
+    id: "graduations",
     title: "Graduations",
     images: [grad3, grad1, grad4, grad5, grad6, image5, image9],
   },
