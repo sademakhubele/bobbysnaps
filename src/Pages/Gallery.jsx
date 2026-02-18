@@ -24,7 +24,7 @@ const albums = [
     images: [photo2],
   },
   {
-    id: "live performances",
+    id: "live-performances",
     title: "Live Performances",
     images: [img9],
   },
@@ -39,7 +39,7 @@ const albums = [
     images: [grad2],
   },
   {
-    id: "Matric dance",
+    id: "matric-dance",
     title: "Matric Dance",
     images: [matric3],
   },
@@ -91,6 +91,7 @@ const Gallery = () => {
 };
 
 export default Gallery;
+
 
 
 
