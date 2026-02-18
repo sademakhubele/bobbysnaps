@@ -22,15 +22,6 @@ import studio6 from "../assets/media/studio6.jpg";
 import studio7 from "../assets/media/studio7.jpg";
 import studio8 from "../assets/media/studio8.jpg";
 
-import wed2 from "../assets/media/wed2.jpg";
-import wed from "../assets/media/wed.jpg";
-import wed3 from "../assets/media/wed3.jpg";
-import wed4 from "../assets/media/wed4.jpg";
-import wed5 from "../assets/media/wed5.jpg";
-import wed6 from "../assets/media/wed6.jpg";
-import wed7 from "../assets/media/wed7.jpg";
-import wed8 from "../assets/media/wed8.jpg";
-
 import met2 from "../assets/media/met2.jpg";
 import met3 from "../assets/media/met3.jpg";
 import met4 from "../assets/media/met4.jpg";
@@ -56,6 +47,8 @@ import grad4 from "../assets/media/grad4.jpg";
 import grad5 from "../assets/media/grad5.jpg";
 import grad6 from "../assets/media/grad6.jpg";
 import grad7 from "../assets/media/grad7.jpg";
+import image5 from "../assets/media/image5.jpg";
+import image9   from "../assets/media/image9.jpg";
 
 import matric from "../assets/media/matric.jpg";
 import matric1 from "../assets/media/matric1.jpg";
