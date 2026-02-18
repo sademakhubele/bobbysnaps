@@ -38,7 +38,6 @@ import perf4 from "../assets/media/perf4.jpg";
 import perf5 from "../assets/media/perf5.jpg";
 import perf6 from "../assets/media/perf6.jpg";
 import perf7 from "../assets/media/perf7.jpg";
-import perf8 from "../assets/media/perf8.jpg";
 import perf9 from "../assets/media/perf9.jpg";
 import perf10 from "../assets/media/perf10.jpg";
 
@@ -48,6 +47,7 @@ import grad3 from "../assets/media/grad3.jpg";
 import grad4 from "../assets/media/grad4.jpg";
 import grad5 from "../assets/media/grad5.jpg";
 import grad6 from "../assets/media/grad6.jpg";
+import grad7 from "../assets/media/grad7.jpg";
 import image5 from "../assets/media/image5.jpg";
 import image9 from "../assets/media/image9.jpg";
 
@@ -91,7 +91,6 @@ const albums = [
       perf5,
       perf6,
       perf7,
-      perf8,
       perf9,
       perf10,
     ],
@@ -104,7 +103,7 @@ const albums = [
   {
     id: "graduations",
     title: "Graduations",
-    images: [grad3, grad1, grad4, grad5, grad6, image5, image9],
+    images: [grad3, grad1, grad4, grad5, grad6, grad7, image5, image9],
   },
   {
     id: "matric-dance",
