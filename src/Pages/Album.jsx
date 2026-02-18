@@ -31,6 +31,7 @@ import met5 from "../assets/media/met5.jpg";
 import met6 from "../assets/media/met6.jpg";
 import met7 from "../assets/media/met7.jpg";
 import met8 from "../assets/media/met8.jpg";
+import met9 from "../assets/media/met9.jpg";
 
 import perf1 from "../assets/media/perf1.jpg";
 import perf2 from "../assets/media/perf2.jpg";
@@ -38,15 +39,15 @@ import perf4 from "../assets/media/perf4.jpg";
 import perf5 from "../assets/media/perf5.jpg";
 import perf6 from "../assets/media/perf6.jpg";
 import perf7 from "../assets/media/perf7.jpg";
-import perf8 from "../assets/media/perf8.jpg";
 import perf9 from "../assets/media/perf9.jpg";
 import perf10 from "../assets/media/perf10.jpg";
 
-import grad1 from "../assets/media/grad1.jpg"
-import grad3 from "../assets/media/grad3.jpg"
-import grad4 from "../assets/media/grad4.jpg"
-import grad5 from "../assets/media/grad5.jpg"
-import grad6 from "../assets/media/grad6.jpg"
+import grad1 from "../assets/media/grad1.jpg";
+import grad3 from "../assets/media/grad3.jpg";
+import grad4 from "../assets/media/grad4.jpg";
+import grad5 from "../assets/media/grad5.jpg";
+import grad6 from "../assets/media/grad6.jpg";
+import grad7 from "../assets/media/grad7.jpg";
 
 import matric from "../assets/media/matric.jpg";
 import matric1 from "../assets/media/matric1.jpg";
@@ -69,22 +70,22 @@ const albums = [
     images: [studio1, studio2, studio3, studio4, studio5, studio6, studio7, studio8],
   },
   {
-    id: "live performances",
+    id: "live-performances",
     title: "Live Performances",
-    images: [perf1, perf2, perf4, perf5, perf6, perf7, perf8, perf9, perf10],
+    images: [perf1, perf2, perf4, perf5, perf6, perf7, perf9, perf10],
   },
   {
-    id: "Maternity",
+    id: "maternity",
     title: "Maternity",
-    images: [met2, met3, met4, met5, met6, met7, met8],
+    images: [met2, met3, met4, met5, met6, met7, met8, met9],
   },
   {
     id: "graduations",
     title: "Graduations",
-    images: [grad3, grad1, grad4, grad5, grad6, image5, image9],
+    images: [grad3, grad1, grad4, grad5, grad6, grad7, image5, image9],
   },
   {
-    id: "Matric Dance",
+    id: "matric-dance",
     title: "Matric Dance",
     images: [matric1, matric8, matric3, matric4, matric5, matric6, matric7, matric],
   },
