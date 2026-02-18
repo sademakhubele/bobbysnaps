@@ -4,7 +4,6 @@ import { Navbar } from "../Components/Navbar";
 
 // Images
 
-import img9 from "../assets/media/image9.jpg";
 
 import wed1 from "../assets/media/wed1.jpg";
 import photo2 from "../assets/media/photo2.jpg";

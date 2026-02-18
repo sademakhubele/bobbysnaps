@@ -3,6 +3,10 @@ import { useParams } from "react-router-dom";
 import { Navbar } from "../Components/Navbar";
 
 
+import img5 from "../assets/media/image5.jpg";
+import img6 from "../assets/media/image6.jpg";
+import img8 from "../assets/media/image8.jpg";
+
 import image5 from "../assets/media/image5.jpg";
 import image9 from "../assets/media/image9.jpg";
 
@@ -11,9 +15,6 @@ import studio2 from "../assets/media/studio2.jpg";
 import studio3 from "../assets/media/studio3.jpg";
 import studio4 from "../assets/media/studio4.jpg";
 import studio5 from "../assets/media/studio5.jpg";
-import studio6 from "../assets/media/studio6.jpg";
-import studio7 from "../assets/media/studio7.jpg";
-import studio8 from "../assets/media/studio8.jpg";
 
 import wed2 from "../assets/media/wed2.jpg";
 import wed from "../assets/media/wed.jpg";
@@ -31,6 +32,7 @@ import met8 from "../assets/media/met8.jpg";
 
 import perf1 from "../assets/media/perf1.jpg";
 import perf2 from "../assets/media/perf2.jpg";
+import perf3 from "../assets/media/perf3.jpg";
 import perf4 from "../assets/media/perf4.jpg";
 import perf5 from "../assets/media/perf5.jpg";
 import perf6 from "../assets/media/perf6.jpg";
@@ -63,12 +65,12 @@ const albums = [
   {
     id: "photoshoots",
     title: "Photoshoots",
-    images: [studio1, studio2, studio3, studio4, studio5, studio6, studio7, studio8],
+    images: [img5, img6, img8, studio1, studio2, studio3, studio4, studio5],
   },
   {
     id: "live performances",
     title: "Live Performances",
-    images: [perf1, perf2, perf4, perf5, perf6, perf7, perf8, perf9, perf10],
+    images: [perf1, perf2, perf3, perf4, perf5, perf6, perf7, perf8, perf9, perf10],
   },
   {
     id: "Maternity",
@@ -124,3 +126,5 @@ const Album = () => {
 };
 
 export default Album;
+
+
