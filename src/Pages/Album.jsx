@@ -94,7 +94,6 @@ const albums = [
     id: "graduations",
     title: "Graduations",
     images: [grad3, grad1, grad4, grad5, grad6, grad7, image5, image9],
-    images: [grad3, grad1, grad4, grad5, grad6, grad7, image5, image9],
   },
   {
     id: "matric-dance",
