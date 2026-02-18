@@ -5,7 +5,7 @@ import { Link as ScrollLink } from "react-scroll";
 import { Link as RouterLink } from "react-router-dom";
 
 // Import images from src/assets/media
-import servicesImg from "../assets/media/image11.jpg"
+import servicesImg from "../assets/media/image11.jpg";
 import galleryImg from "../assets/media/image2.jpg";
 import classesImg from "../assets/media/image3.jpg";
 import logoImg from "../assets/media/logo.jpg";
@@ -65,7 +65,6 @@ const Home = ({ navigate }) => {
           alt="image"
           className="w-1/2 md:w-1/2 mx-auto rounded-lg shadow-md mb-4"
         />
-        
       </section>
 
       {/* Contact Section */}
@@ -81,6 +80,7 @@ const Home = ({ navigate }) => {
           className="w-24 h-24 mx-auto rounded-full mb-6 shadow-md"
         />
 
+        {/* WhatsApp Button (unchanged) */}
         <a
           href="https://wa.me/27606332948?text=Hi%20Bobby.Snaps!%20I’d%20like%20to%20book%20a%20photoshoot%20session"
           target="_blank"
@@ -90,9 +90,35 @@ const Home = ({ navigate }) => {
             Get in Touch
           </button>
         </a>
+
+        {/* Alternative Text Links */}
+        <div className="mt-6 text-sm text-gray-600">
+          <p>
+            Instagram:{" "}
+            <a
+              href="https://instagram.com/bobby.snaps"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-black transition"
+            >
+              @bobbysnaps
+            </a>
+          </p>
+
+          <p className="mt-2">
+            Email:{" "}
+            <a
+              href="mailto:bobbysnaps111@gmail.com"
+              className="underline hover:text-black transition"
+            >
+              youremail@example.com
+            </a>
+          </p>
+        </div>
       </section>
     </div>
   );
 };
 
 export default Home;
+
