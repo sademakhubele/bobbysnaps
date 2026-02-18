@@ -30,6 +30,7 @@ import met5 from "../assets/media/met5.jpg";
 import met6 from "../assets/media/met6.jpg";
 import met7 from "../assets/media/met7.jpg";
 import met8 from "../assets/media/met8.jpg";
+import met9 from "met9.jpg"
 
 // Performances
 import perf1 from "../assets/media/perf1.jpg";
