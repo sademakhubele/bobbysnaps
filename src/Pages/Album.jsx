@@ -79,7 +79,7 @@ const albums = [
     images: [met2, met3, met4, met5, met6, met7, met8],
   },
   {
-    id: "Graduations",
+    id: "graduations",
     title: "Graduations",
     images: [grad3, grad1, grad4, grad5, grad6, image5, image9],
   },
