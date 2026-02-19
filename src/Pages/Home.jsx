@@ -91,31 +91,6 @@ const Home = ({ navigate }) => {
             Get in Touch
           </button>
         </a>
-
-        {/* Alternative Text Links */}
-        <div className="mt-6 text-sm text-gray-600">
-          <p>
-            Instagram:{" "}
-            <a
-              href="https://instagram.com/bobby.snaps"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline hover:text-black transition"
-            >
-              @bobbysnaps
-            </a>
-          </p>
-
-          <p className="mt-2">
-            Email:{" "}
-            <a
-              href="mailto:bobbysnaps111@gmail.com"
-              className="underline hover:text-black transition"
-            >
-              youremail@example.com
-            </a>
-          </p>
-        </div>
       </section>
     </div>
   );
