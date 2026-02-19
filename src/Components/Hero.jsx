@@ -14,7 +14,7 @@ const Hero = () => {
         className="bg-black text-white px-6 py-3 rounded hover:bg-gray-800 transition"
         onClick={() => navigate("/about")}
       >
-        About Booby Snaps Photography
+        About Bobby Snaps Photography
       </button>
     </section>
   );

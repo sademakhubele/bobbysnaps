@@ -24,13 +24,13 @@ const About = () => {
             Meet the Founder of Bobby Snaps Photography
           </h2>
           <p className="text-lg mb-4">
-            I'm Minkateo Mhlongo a passionate young photographer with years of experience capturing unforgettable moments across South Africa. 
+            I'm Mikateko Mhlongo, a passionate young photographer with years of experience capturing unforgettable moments across South Africa. 
           </p>
           <p className="text-lg mb-4">
-            My journey with photography started at a young age, and over the years I've mastered the art of storytelling through my lens. From intimate studio portraits and high-energy events to breathtaking drone shots and corporate branding, I pride myself on creating timeless images that reflect real emotion and authentic beauty.
+            My journey with photography started at a young age, and over the years I've mastered the art of storytelling through my lens. From intimate studio portraits and high-energy events to cinematic drone shots and corporate branding. I focus on creating timeless images that capture genuine emotion and authentic beauty.
           </p>
           <p className="text-lg mb-4">
-            Photography, for me, is more than just pictures — it’s about freezing memories, celebrating milestones, and telling stories that last a lifetime. Every click of my camera is driven by creativity, precision, and a deep love for the craft.
+            To me, photography is more than just pictures, it’s about preserving memories, celebrating milestones, and telling stories that stand the test of time. Every click of my camera is guided by creativity, precision, unwavering dedication, and a deep passion for the craft.
           </p>
 
           <button

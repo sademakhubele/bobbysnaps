@@ -57,8 +57,9 @@ const Home = ({ navigate }) => {
       <section id="classes" className="py-12 text-center">
         <h2 className="text-4xl font-bold mb-4">Photoshoot Bookings</h2>
         <p className="max-w-lg mx-auto mb-6">
-          Beginner to advanced training. Learn professional makeup skills in an
-          empowering space.
+          Book professional photography sessions for graduations, weddings, corporate
+          events, studio portraits, and special occasions. We capture moments that last
+          a lifetime.
         </p>
         <img
           src={classesImg}
