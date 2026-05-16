@@ -154,6 +154,8 @@ const Album = () => {
           ))}
         </div>
       </section>
+
+      <Footer />
     </div>
   );
 };

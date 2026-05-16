@@ -53,6 +53,8 @@ const Services = () => {
         ))}
       </div>
     </div> 
+
+    <Footer />
     </>
   );
 };

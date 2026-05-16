@@ -94,6 +94,8 @@ const Home = ({ navigate }) => {
         </a>
         <p className="text-lg text-black px-6 py-2 rounded  transition">Call Us On +27 60 633 2948</p>
       </section>
+
+      <Footer />
     </div>
   );
 };
