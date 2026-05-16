@@ -32,13 +32,6 @@ const About = () => {
           <p className="text-lg mb-4">
             To me, photography is more than just pictures, it’s about preserving memories, celebrating milestones, and telling stories that stand the test of time. Every click of my camera is guided by creativity, precision, unwavering dedication, and a deep passion for the craft.
           </p>
-
-          <button
-            onClick={() => navigate("/")}
-            className="mt-6 bg-black text-white px-6 py-3 rounded hover:bg-gray-800 transition"
-          >
-            Back to Home
-          </button>
         </div>
       </section>
     </div>
