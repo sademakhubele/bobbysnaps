@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Navbar } from "../Components/Navbar";
+import Footer from "../Components/Footer";
 
 // Images
 
@@ -86,7 +87,7 @@ const Gallery = () => {
           ))}
         </div>
       </section>
-      
+
       <Footer />
     </div>
   );

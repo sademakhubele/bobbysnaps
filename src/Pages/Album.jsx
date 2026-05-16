@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import { Navbar } from "../Components/Navbar";
+import Footer from "../Components/Footer";
+
+// Images
 
 // Wedding Images
 import wed2 from "../assets/media/wed2.jpg";

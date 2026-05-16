@@ -3,6 +3,7 @@ import Hero from "../Components/Hero";
 import { Navbar } from "../Components/Navbar";
 import { Link as ScrollLink } from "react-scroll";
 import { Link as RouterLink } from "react-router-dom";
+import Footer from "../Components/Footer";
 
 // Import images from src/assets/media
 import servicesImg from "../assets/media/image11.jpg";
