@@ -92,7 +92,7 @@ const Home = ({ navigate }) => {
           </button>
           <br />
         </a>
-        <p className=" text-lgtext-black px-6 py-2 rounded  transition">Call us on +27 60 633 2948</p>
+        <p className="text-lg text-black px-6 py-2 rounded  transition">Call Us On +27 60 633 2948</p>
       </section>
     </div>
   );
