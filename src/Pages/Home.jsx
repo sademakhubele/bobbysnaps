@@ -74,7 +74,7 @@ const Home = ({ navigate }) => {
         <p className="max-w-lg mx-auto mb-6">
           Let’s connect. Book your session or ask a question.
         </p>
-
+      
         <img
           src={logoImg}
           alt="bobby snapps"
@@ -88,9 +88,11 @@ const Home = ({ navigate }) => {
           rel="noopener noreferrer"
         >
           <button className="bg-black text-white px-6 py-2 rounded hover:bg-gray-800 transition">
-            Get in Touch
+             Click Here To WhatsApp Us
           </button>
+          <br />
         </a>
+        <p className=" text-lgtext-black px-6 py-2 rounded  transition">Call us on +27 60 633 2948</p>
       </section>
     </div>
   );

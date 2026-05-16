@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from "react-router-dom";
 import { Navbar } from "../Components/Navbar";
 
-import img13 from "../assets/media/image13.jpg";
+import bobby from "../assets/media/bobby.jpg";
 
 const About = () => {
   const navigate = useNavigate();
@@ -13,7 +13,7 @@ const About = () => {
       <section className="min-h-screen bg-white text-black px-6 md:px-20 py-16 flex flex-col md:flex-row items-center justify-between gap-12 mt-20">
         <div className="flex-1">
           <img
-            src={img13}
+            src={bobby}
             alt="Founder"
             className="rounded-lg shadow-lg w-full md:w-[400px] object-cover"
           />
