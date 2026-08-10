@@ -1,3 +1,64 @@
+# BobbySnaps Photography Website
+
+A responsive photography portfolio website built for **BobbySnaps**, designed to showcase photography work through a clean, visual and mobile-friendly interface.
+
+## Overview
+
+I designed and developed this website to give BobbySnaps a professional online presence and provide visitors with an easy way to explore the photographer's work.
+
+The project focused on visual presentation, responsive layouts, intuitive navigation and maintaining a consistent brand experience across different screen sizes.
+
+## Features
+
+* Responsive photography portfolio
+* Mobile-first layouts
+* Image-focused gallery sections
+* Responsive navigation
+* Structured content sections
+* Clean and modern user interface
+* Optimized layouts for desktop, tablet and mobile
+* Client-focused visual presentation
+
+## Built With
+
+* React
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+
+## Development Focus
+
+During development, I focused on:
+
+* Responsive and mobile-first design
+* User-friendly navigation
+* Visual hierarchy and image presentation
+* Consistent branding
+* Reusable React components
+* Clean and maintainable front-end code
+* Performance and responsive behaviour
+
+## My Role
+
+I was responsible for the design and front-end development of the website, including translating the project requirements into a responsive interface, implementing the UI, refining the experience across screen sizes and deploying the finished website.
+
+## Live Website
+
+Add the live website URL here.
+
+## Screenshots
+
+Add screenshots of the website here to show the desktop and mobile interfaces.
+
+## Author
+
+**Sadè Makhubele**
+
+Front-End Developer
+
+[GitHub](https://github.com/sademakhubele)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
