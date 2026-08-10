@@ -23,9 +23,8 @@ The project focused on visual presentation, responsive layouts, intuitive naviga
 
 * React
 * Vite
-* JavaScript
-* HTML5
-* CSS3
+* JSX
+* Tailwind CSS
 
 ## Development Focus
 
